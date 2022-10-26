@@ -1,4 +1,4 @@
-# Tarot
+# Tarot🍠
 Exchange for Taro assets
 
 # How works?

@@ -1,0 +1,14 @@
+
+[Unit]
+Description=Combined LND/TARO service
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=$USER
+ExecStart=$GOPATH/bin/ltd --network=testnet --uipassword=changethis --ip=127.0.0.1 --log_level=debug
+[Install]
+WantedBy=multi-user.target

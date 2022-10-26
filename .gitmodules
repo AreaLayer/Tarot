@@ -1,0 +1,7 @@
+[submodule "taro"]
+	path = taro
+	url = https://github.com/jacohend/taro.git
+	branch = no-short-flags
+[submodule "lnd"]
+	path = lnd
+	url = https://github.com/lightningnetwork/lnd

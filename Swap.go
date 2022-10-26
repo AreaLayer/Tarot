@@ -1,2 +1,8 @@
-pacakage swap
+pacakage main
+
+fuc swap
+
+fuc swapin
+
+fuc swapout
 

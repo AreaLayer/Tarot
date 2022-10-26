@@ -1,7 +1,7 @@
 {
   "homepage":
-  "name":"tarot"
-  "version":"0.0.0"
+  "name":"tarot",
+  "version":"0.0.0",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",

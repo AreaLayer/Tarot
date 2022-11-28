@@ -3,7 +3,9 @@ Exchange for Taro assets
 
 # How works?
 
-Soon details
+1.The token will pass by the our plataform
+2.Nodes verify token
+3.Both Nodes and plataform earn fees
 
 ## To-Do
 - [ ] Testnet

@@ -645,8 +645,8 @@ github.com/lightninglabs/neutrino v0.14.2 h1:yrnZUCYMZ5ECtXhgDrzqPq2oX8awoAN2D/c
 github.com/lightninglabs/neutrino v0.14.2/go.mod h1:OICUeTCn+4Tu27YRJIpWvvqySxx4oH4vgdP33Sw9RDc=
 github.com/lightningnetwork/lightning-onion v1.0.2-0.20220211021909-bb84a1ccb0c5 h1:TkKwqFcQTGYoI+VEqyxA8rxpCin8qDaYX0AfVRinT3k=
 github.com/lightningnetwork/lightning-onion v1.0.2-0.20220211021909-bb84a1ccb0c5/go.mod h1:7dDx73ApjEZA0kcknI799m2O5kkpfg4/gr7N092ojNo=
-github.com/lightningnetwork/lnd v0.15.0-beta.rc6.0.20221116111746-478b01267289 h1:zrJtg3/Akh2DwVnUllFDL0N3y4L8lGoz+D7tHbJgR3g=
-github.com/lightningnetwork/lnd v0.15.0-beta.rc6.0.20221116111746-478b01267289/go.mod h1:OI5rZVx/9UT8hppJRuBH1drRWXvY8WBxfcEUTyWemHA=
+github.com/lightningnetwork/lnd v0.15.4-beta.rc6.0.20221116111746-478b01267289 h1:zrJtg3/Akh2DwVnUllFDL0N3y4L8lGoz+D7tHbJgR3g=
+github.com/lightningnetwork/lnd v0.15.4-beta.rc6.0.20221116111746-478b01267289/go.mod h1:OI5rZVx/9UT8hppJRuBH1drRWXvY8WBxfcEUTyWemHA=
 github.com/lightningnetwork/lnd/cert v1.1.1 h1:Nsav0RlIDRbOnzz2Yu69SQlK939IKya3Q2S0mDviIN8=
 github.com/lightningnetwork/lnd/cert v1.1.1/go.mod h1:1P46svkkd73oSoeI4zjkVKgZNwGq8bkGuPR8z+5vQUs=
 github.com/lightningnetwork/lnd/clock v1.0.1/go.mod h1:KnQudQ6w0IAMZi1SgvecLZQZ43ra2vpDNj7H/aasemg=

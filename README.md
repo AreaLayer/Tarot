@@ -11,7 +11,7 @@ Simulation A
 
 3.Both Nodes and plataform earn fees
 
-Simylation B
+Simulation B
 
 1.People Hold token in a wallet support Taro
 

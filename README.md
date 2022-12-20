@@ -21,7 +21,7 @@ Simulation B
 - [ ] Testnet
 - [ ] Integration with LND
 - [ ] Mainnet
-- [ ] Fees
+- [x] Fees
 - [ ] UI via Terminal
 
 # Product

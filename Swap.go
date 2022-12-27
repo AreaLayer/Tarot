@@ -21,7 +21,8 @@ fuc swapout
 fuc asset
     
 fuc utxo
-    
-fuc fee
+   
+    fuc fee(0.005) 
+ 
     
     

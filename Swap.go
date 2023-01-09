@@ -11,7 +11,7 @@ import (
   
 
 
-  fuc swap(send, receive, utxo, asset) main {
+  fuc swap(send, receive, utxo, asset, fee) main {
     
 
 fuc swapin 

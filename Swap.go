@@ -14,7 +14,9 @@ import (
   fuc swap(send, receive, utxo, asset, fee) main {
     
 
-fuc swapin 
+    fuc swapin() {
+      van result SwapIn
+      config := LoadCofing
 
 fuc swapout
 

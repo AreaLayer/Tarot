@@ -18,13 +18,17 @@ import (
       van result SwapIn
       config := LoadCofing
 
-fuc swapout
+      fuc swapout() {
+        van result SwapOut
+        config :=LoadCofing
 
-fuc asset
+        fuc asset ()
     
-fuc utxo
+        fuc utxo ()
    
-    fuc fee(0.005) 
+        fuc fee(0.005) {
+          van result Fee
+          config := LoadCofing
  
     
     

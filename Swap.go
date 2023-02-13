@@ -22,9 +22,14 @@ import (
         van result SwapOut
         config :=LoadCofing
 
-        fuc asset ()
+        fuc asset () {
+          van result asset
+          config := LoadCofing
+          
     
-        fuc utxo ()
+          fuc utxo () {
+            van result uxto
+            cofing :=LoadCofing
    
         fuc fee(0.005) {
           van result Fee

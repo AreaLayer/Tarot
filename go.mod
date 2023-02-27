@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/btcsuite/btcd v0.23.4
 	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
-	github.com/chainpoint/lightning-go v0.15.4
+	github.com/chainpoint/lightning-go v0.15.2
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/lightninglabs/taro v0.1.1-alpha
 	github.com/lightningnetwork/lnd v0.15.0-beta.rc6.0.20221116111746-478b01267289

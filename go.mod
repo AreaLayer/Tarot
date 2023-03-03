@@ -8,7 +8,7 @@ require (
 	github.com/chainpoint/lightning-go v0.15.2
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/lightninglabs/taro v0.1.1-alpha
-	github.com/lightningnetwork/lnd v0.15.0-beta.rc6.0.20221116111746-478b01267289
+	github.com/lightningnetwork/lnd v0.15.4-beta
 )
 
 require (
@@ -51,6 +51,7 @@ require (
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
+	github.com/dvyukov/go-fuzz v0.0.0-20210602112143-b1f3d6f4ef4e // indirect
 	github.com/fergusstrange/embedded-postgres v1.10.0 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
 	github.com/go-errors/errors v1.0.1 // indirect

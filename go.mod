@@ -1,4 +1,4 @@
-module github.com/layer2labs/tarot
+module github.com/arealayer/tarot
 
 go 1.18
 

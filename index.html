@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tarot</title>
+</head>
+<body>
+	<h1>Tarot</h1>
+	<label for="token 1">token 1:</label>
+	<input type="number" id="crypto1" name="token 1" min="0" step="0.01">
+	<label for="token 2">tokrn 2:</label>
+	<input type="number" id="crypto2" name="token 2" min="0" step="0.01">
+	<br><br>
+	<button onclick="swap()">Swap</button>
+	<br><br>
+	<p>Exchange Rate: <span id="exchangeRate"></span></p>
+	<p>Estimated Miner Fees: <span id="MinerFees"></span></p>
+	
+	<script>
+		// Retrieve current exchange rate from exchange platform
+		// For demonstration purposes, we'll set a fixed rate of 1:2
+		var exchangeRate = 2;
+
+		// Function to calculate estimated gas fees
+		// For demonstration purposes, we'll set a fixed gas fee of 0.0002 BTC
+		function calculateGasFees() {
+			var gasFees = 0.0002;
+			document.getElementById("MinerFee").innerHTML = MinerFees + "BTC";
+		}
+
+		// Function to initiate the swap
+		function swap() {
+			// Validate user input and ensure they have sufficient funds to complete the exchange
+			// Send API request to exchange platform to initiate the exchange
+			// Display confirmation message to user
+			alert("Swap completed!");
+		}
+
+		// Display current exchange rate and estimated MinerFees
+		document.getElementById("exchangeRate").innerHTML = "Token 1 = " + exchangeRate + " Token 2";
+		calculateGasFees();
+	</script>
+</body>
+</html>

@@ -22,7 +22,8 @@ Simulation B
 - [ ] Integration with LND
 - [ ] Mainnet
 - [x] Fees
-- [ ] UI via Terminal
+- [X] UI via Web (Github pages)
+- [ ] UI via Terminal for LND 
 
 # Product
 

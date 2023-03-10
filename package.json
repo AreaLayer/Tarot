@@ -1,7 +1,7 @@
 {
   "homepage":
   "name":"tarot",
-  "version":"1.0.0",
+  "version":"1.0.1",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
@@ -15,4 +15,8 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
-  }
+  },
+  "package": {
+  "taro":"tarod v0.1.1-alpha"
+  "link":"//github.com/lightninglabs/taro/"
+  "license":"MIT"

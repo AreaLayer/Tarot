@@ -1,0 +1,30 @@
+{
+    "assets": [
+        {
+            "version": 0,
+            "asset_genesis": {
+                "genesis_point": "75c32c802872113933fc65a4814063083483540475223434441f0d8ef3a3b554:2",
+                "name": "beefbux",
+                "meta": "66616e746173746963206d6f6e6579",
+                "asset_id": "33644efe039d3569e6bafb07bc8f5959578a909e9c5e1c15949c986c54edbf35",
+                "output_index": 0,
+                "genesis_bootstrap_info": "54b5a3f38e0d1f44343422750454833408634081a465fc3339117228802cc37500000002076c656f636f696e0f66616e746173746963206d6f6e65790000000000",
+                "version": 0
+            },
+            "asset_type": "NORMAL",
+            "amount": "1000",
+            "lock_time": 0,
+            "relative_lock_time": 0,
+            "script_version": 0,
+            "script_key": "029b9c43658d9b5f500765133ab3ced84eb64d53c5e3a9c16f3c3478bdf0801536",
+            "asset_family": null,
+            "chain_anchor": {
+                "anchor_tx": "0200000000010154b5a3f38e0d1f44343422750454833408634081a465fc3339117228802cc3750200000000ffffffff02e803000000000000225120d24719222f29af678c9b4e0c09de85bab1630d21e3105dd56f4e3f96f87715fbd1662f0100000000160014b4e3d6ab7ab26fbd89eda823afa492a9fb6b60e00247304402202e11465d042306a75db1664eb7592c8d22811820b5f0cead01edd652777ad38b0220357e5476a8c330636a5db64bcb1181051af1fe28e1a265c069695ac529be0b850121030124d8eafacf0fb7fd354bac66346c3c4d4d42082459ad0a8e9f6f8e784fda6900000000",
+                "anchor_txid": "92c2c1a210e750826d5b7ea708221f3b10a571e91eb11055fa7e1cc253760100",
+                "anchor_block_hash": "356a55a10a5119611a12b3b793823f1f052bd41052ab90620a00000000000000",
+                "anchor_outpoint": "00017653c21c7efa5510b11ee971a5103b1f2208a77e5b6d8250e710a2c1c292:0",
+                "internal_key": "03202ad86dea8a65274191db0fc4f4b621d7e65b5ae45b5ccf06ef018237f4a329"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "transfer_txid": "6331bcce0723065436b2a7fbca530b5b7a2ddf97a4a908f497edf409af70a396",
+    "anchor_output_index": 0,
+    "transfer_tx_bytes": "0200000000010292c2c1a210e750826d5b7ea708221f3b10a571e91eb11055fa7e1cc2537601000100000000ffffffff92c2c1a210e750826d5b7ea708221f3b10a571e91eb11055fa7e1cc25376010000000000000000000003e803000000000000225120c97db2ab400fd348807204da195fa646490273725bb4ddd5c28e5aaf0092fa95e803000000000000225120ceba6020c7cdc1eb35b3c50c4d4514779aab8cf3802985911e9bd3cfe971cc97e9612f01000000001600143d07986e00f2fa88e0dce8f3d6820c4339ecfb9c02483045022100abcb4b72b84eaa8971314237b13109efaaba88441713f3930a059bb9f33a90ac02206514e335fb67326859ab6dc83001b21191569f3b192b09e98d95790835927e3e0121029d4d78a69d1cb057cf36801c59d0a8bed46ed34c24e914966c0bee64f3d33aaf01405d3abab2f8153943966bec70477d0265d01c93b1281627eb0ba22d27256976f615c51ea95a72732b3c427794adfc4f0b4194a68e715a0818cf1cd1868331032b00000000",
+    "taro_transfer": {
+        "old_taro_root": "1cf5d432c6b9e886910f459c80e32b6481eca171f15ae0fdb1df50c3db3ae445",
+        "new_taro_root": "2703ea2f4535c46fedfa6d3dde17bca691e6e5a9ffc5a14fd487caed019b306a",
+        "prev_inputs": [
+            {
+                "anchor_point": "00017653c21c7efa5510b11ee971a5103b1f2208a77e5b6d8250e710a2c1c292:0",
+                "asset_id": "33644efe039d3569e6bafb07bc8f5959578a909e9c5e1c15949c986c54edbf35",
+                "script_key": "029b9c43658d9b5f500765133ab3ced84eb64d53c5e3a9c16f3c3478bdf0801536",
+                "amount": "1000"
+            }
+        ],
+        "new_outputs": [
+            {
+                "anchor_point": "96a370af09f4ed97f408a9a497df2d7a5b0b53cafba7b23654062307cebc3163:0",
+                "asset_id": "33644efe039d3569e6bafb07bc8f5959578a909e9c5e1c15949c986c54edbf35",
+                "script_key": "028055056a70daf83e654a28b640dbf7fa893953f87398a51b7c2021520402a54b",
+                "amount": "900",
+                "new_proof_blob": null,
+                "split_commit_proof": null
+            },
+            {
+                "anchor_point": "96a370af09f4ed97f408a9a497df2d7a5b0b53cafba7b23654062307cebc3163:0",
+                "asset_id": "33644efe039d3569e6bafb07bc8f5959578a909e9c5e1c15949c986c54edbf35",
+                "script_key": "028055056a70daf83e654a28b640dbf7fa893953f87398a51b7c2021520402a54b",
+                "amount": "100",
+                "new_proof_blob": null,
+                "split_commit_proof": null
+            }
+        ]
+    },
+    "total_fee_sats": "0"
+}

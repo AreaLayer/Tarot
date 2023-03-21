@@ -18,7 +18,7 @@ Simulation B
 2.Exchange token in our platform 
 
 ## To-Do
-- [ ] Testnet
+- [X] Testnet
 - [ ] Integration with LND
 - [ ] Mainnet
 - [x] Fees
